@@ -1,0 +1,112 @@
+\documentclass{article}
+
+\usepackage{xcolor}
+\usepackage{graphicx}
+\title{RESUME}
+\author{B191494}
+\date{August 2022}
+
+
+\begin{document}
+
+\maketitle
+ 
+\begin{huge}
+
+{\color{blue}{PERSONAL INFORMATION}}\\
+\end{huge}
+
+\begin{large}
+\textbf{NAME: GULIMI KEERTHI}\\
+
+ \textbf{ADRESS:  BOLLARAM(V),JINNARAM(M),SANGAREDDY(D),TELANGANA(S)}\\
+
+ \textbf{ID: B191494}\\
+ 
+ \textbf{COLLEGE: RGUKT BASAR}\\
+ 
+\end{large}
+
+\begin{huge}
+    {\color{red}{SEMISTER GRADE SHEET}}\\
+    
+\end{huge}
+\begin{large}
+    \begin{tabular}{|c|c|c|}
+         
+        
+    \hline
+    S.NO & GRADE POINTS & SEMISTER\\
+    
+    \hline
+    
+    1&10&1\\
+    
+    \hline
+    
+    2& 9.7 &2\\
+    
+    \hline
+    
+    3& 9.65 &3\\
+    
+    \hline
+    
+    4& 9.7 &4\\
+
+    \hline  
+        
+    \end{tabular}\\
+
+    \end{large}
+\caption{ puc semister}\\
+
+
+
+\begin{huge}
+
+{\color{blue}{EXTRA CURRUCULAR SKILLS}}
+\end{huge}
+\begin{itemize}
+\begin{large}
+\item PYTHON and C basic knowledge
+\item ANCHORING skills
+\item DANCING 
+\item ARTS and CULTURES
+\item Good at COMMUNICATION SKILLS\\ 
+\end{large}
+\end{itemize}
+\begin{huge}
+{\color{orange}{ACHIVEMENTS}}\\
+
+\end{huge}
+\underline{SSC TOPPER}
+\textit{ in mandal }\\
+
+\textsc{VOLLYBALL player}\\
+
+\underline{NMMs}
+\text{and}
+\underline{SIEMENS}
+\text{scholarship holder}\\
+
+\begin{huge}
+    {\color{red}{HOBBIES}}
+\end{huge}
+   
+\begin{large}
+    \begin{enumerate}
+        \item YOGA and MEDITATION 
+        \item playing BASKET BALL
+        \item reading NOVELS
+        
+    \end{enumerate}
+\end{large}
+
+ \begin{figure}
+     \centering
+     \includegraphics{girl.jpg}
+     \caption{keerthi}
+     \label{0.1}
+ \end{figure}
+ \end{document}
